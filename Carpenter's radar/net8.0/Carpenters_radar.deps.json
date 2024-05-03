@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Carpenters_radar/1.0.0": {
+        "runtime": {
+          "Carpenters_radar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carpenters_radar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
